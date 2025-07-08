@@ -35,4 +35,12 @@ Welcome to my GitHub profile! I'm a Computer Science and Engineering student at 
 
 ---
 
-Thanks for visiting my profile! 😊 Feel free to reach out or collaborate on a project. Let's build something amazing together!
+## 🤝 Connect
+
+- [LinkedIn](https://linkedin.com/in/meheduz)
+- [Twitter](https://twitter.com/mdmeheduz)
+- [Email](mailto:2023331064@student.sust.edu)
+
+---
+
+<p align="center"><i>“Strive for progress, not perfection.”</i></p>
