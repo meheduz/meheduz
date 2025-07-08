@@ -23,13 +23,6 @@ Welcome to my GitHub profile! I'm a Computer Science and Engineering student at 
 
 ---
 
-## 📬 Get in Touch
-- 📧 **Email**: [2023331064@student.sust.edu](mailto:2023331064@student.sust.edu)
-- 🐦 **Twitter**: [@mdmeheduz](https://twitter.com/mdmeheduz)  
-- 💼 **LinkedIn**: [linkedin.com/in/meheduz](https://linkedin.com/in/meheduz)
-
----
-
 ## 🌟 Fun Facts
 - I love contributing to open-source communities and learning from other developers.
 - When I'm not coding, you can find me exploring new tech trends or gaming.
