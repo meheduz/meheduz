@@ -1,37 +1,59 @@
-# Hi there, I'm Meheduz! 👋
+# 👋 Hey there, I'm **Meheduz Zaman**
 
-Welcome to my GitHub profile! I'm a Computer Science and Engineering student at **SUST** (Shahjalal University of Science and Technology), passionate about coding, open-source contributions, and solving challenging problems. Here's a glimpse into what I do and what I love:
+> “Code is how I think. Curiosity is how I learn.”
+
+Welcome to my little corner of the internet — a space where logic meets creativity.  
+I’m a **Computer Science and Engineering** student at **Shahjalal University of Science and Technology (SUST)**, building things that make technology feel a bit more human.
 
 ---
 
-## 🧑‍💻 About Me
-- 🎓 **Education**: Computer Science and Engineering student at SUST.
-- 💡 **Interests:** Algorithms, Web Development, Open Source
-- 🌱 **Currently Learning:** JavaScript, C++
-- 🛠️ **Tech Stack:**  
+## 🧭 About Me
+- 🎓 **CSE @ SUST** — where algorithms meet caffeine.  
+- 💡 I’m drawn to the elegant chaos of **algorithms**, the art of **web development**, and the openness of **open source**.  
+- 🌱 Currently exploring **JavaScript** and **C++**, balancing syntax with imagination.  
+- ⚙️ **Tech Arsenal:**  
   ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ---
 
-## 🔭 What I'm Working On
-- Building my programming skills and mastering JavaScript and C++.
-- Exploring the fundamentals of web development and problem-solving techniques.
+## 🚀 What I’m Up To
+- 🧩 Strengthening my **problem-solving mindset** through algorithms and competitive programming.  
+- 🛠️ Crafting **clean, simple, and meaningful web experiences**.  
+- 🌍 Exploring **open-source** communities — because knowledge grows when shared.  
 
 ---
 
-## 🌟 Fun Facts
-- I love contributing to open-source communities and learning from other developers.
-- When I'm not coding, you can find me exploring new tech trends or gaming.
+## 🧠 Philosophy of Code
+For me, programming is more than syntax — it’s a language of thought.  
+Each function I write is a quiet conversation between logic and curiosity,  
+and each bug is just a mystery waiting to be solved.
+
+---
+
+## 🌟 Beyond the Screen
+- 🎮 Gamer, dreamer, and lifelong learner.  
+- ✍️ Sometimes I write — reflections on tech, learning, and the beautiful complexity of ideas.  
+- ☕ Fueled by coffee and the occasional “what if…?”  
+
+---
+
+## 🧩 My Recent Works
+- **Probaho** – A prototype platform for cross-MFS transactions in Bangladesh.  
+- **ML Journal** – My daily documentation of learning Machine Learning through theory and pseudocode.  
 
 ---
 
 ## 📊 GitHub Stats
-![Meheduz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meheduz&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meheduz&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Meheduz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meheduz&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meheduz&layout=compact&theme=radical)
 
+---
+
+### ✨ “Keep building. Keep learning. Keep wondering.”
 ---
 
 ## 🤝 Connect
