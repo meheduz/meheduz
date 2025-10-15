@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm **Meheduz Zaman**
+#  Hey there, I'm **Meheduz Zaman**
 
 > “Code is how I think. Curiosity is how I learn.”
 
@@ -7,7 +7,7 @@ I’m a **Computer Science and Engineering** student at **Shahjalal University o
 
 ---
 
-## 🧭 About Me
+##  About Me
 - 🎓 **CSE @ SUST** — where algorithms meet caffeine.  
 - 💡 I’m drawn to the elegant chaos of **algorithms**, the art of **web development**, and the openness of **open source**.  
 - 🌱 Currently exploring **JavaScript** and **C++**, balancing syntax with imagination.  
@@ -27,36 +27,34 @@ I’m a **Computer Science and Engineering** student at **Shahjalal University o
 
 ---
 
-## 🧠 Philosophy of Code
+##  Philosophy of Code
 For me, programming is more than syntax — it’s a language of thought.  
 Each function I write is a quiet conversation between logic and curiosity,  
 and each bug is just a mystery waiting to be solved.
 
 ---
 
-## 🌟 Beyond the Screen
+##  Beyond the Screen
 - 🎮 Gamer, dreamer, and lifelong learner.  
 - ✍️ Sometimes I write — reflections on tech, learning, and the beautiful complexity of ideas.  
 - ☕ Fueled by coffee and the occasional “what if…?”  
 
 ---
 
-## 🧩 My Recent Works
+##  My Recent Works
 - **Probaho** – A prototype platform for cross-MFS transactions in Bangladesh.  
-- **ML Journal** – My daily documentation of learning Machine Learning through theory and pseudocode.  
-
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 ![Meheduz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meheduz&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meheduz&layout=compact&theme=radical)
 
 ---
 
-### ✨ “Keep building. Keep learning. Keep wondering.”
+###  “Keep building. Keep learning. Keep wondering.”
 ---
 
-## 🤝 Connect
+##  Connect
 
 - [LinkedIn](https://linkedin.com/in/meheduz)
 - [Twitter](https://twitter.com/mdmeheduz)
