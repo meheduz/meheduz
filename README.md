@@ -20,7 +20,7 @@ I’m a **Computer Science and Engineering** student at **Shahjalal University o
 
 ---
 
-## 🚀 What I’m Up To
+##  What I’m Up To
 - 🧩 Strengthening my **problem-solving mindset** through algorithms and competitive programming.  
 - 🛠️ Crafting **clean, simple, and meaningful web experiences**.  
 - 🌍 Exploring **open-source** communities — because knowledge grows when shared.  
