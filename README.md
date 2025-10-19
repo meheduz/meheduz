@@ -6,7 +6,7 @@ Welcome to my little corner of the internet — a space where logic meets creati
 I’m a **Computer Science and Engineering** student at **Shahjalal University of Science and Technology (SUST)**, building things that make technology feel a bit more human.
 
 ---
-
+![Profile Views](https://komarev.com/ghpvc/?username=meheduz&label=Profile%20Views&color=blue&style=flat)
 ##  About Me
 - 🎓 **CSE @ SUST** — where algorithms meet caffeine.  
 - 💡 I’m drawn to the elegant chaos of **algorithms**, the art of **web development**, and the openness of **open source**.  
