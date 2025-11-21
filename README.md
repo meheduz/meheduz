@@ -10,27 +10,16 @@ I'm a **Computer Science and Engineering** student at **Shahjalal University of 
 
 ## About Me
 - **CSE @ SUST** — where algorithms meet caffeine.  
-- I'm drawn to the elegant chaos of **algorithms**, the art of **web development**, and the openness of **open source**.  
-- Currently exploring **JavaScript** and **C++**, balancing syntax with imagination.  
+- I'm drawn to the elegant chaos of **algorithms**, the art of **app development**, and the openness of **open source**.  
+- Currently exploring **Java** and **C++**, balancing syntax with imagination.  
 
 ---
 
 ## What I'm Up To
-- Strengthening my **problem-solving mindset** through algorithms and competitive programming.  
+- Strengthening my **problem-solving mindset** through programming.  
 - Crafting **clean, simple, and meaningful web experiences**.  
 - Exploring **open-source** communities — because knowledge grows when shared.  
 
----
-
-## Beyond the Screen
-- Gamer, dreamer, and lifelong learner.  
-- Sometimes I write — reflections on tech, learning, and the beautiful complexity of ideas.  
-- Fueled by coffee and the occasional "what if…?"  
-
----
-
-## My Recent Works
-- **Probaho** – A prototype platform for cross-MFS transactions in Bangladesh.  
 ---
 
 ### "Keep building. Keep learning. Keep wondering."
