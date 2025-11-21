@@ -2,31 +2,28 @@
 
 > "Code is how I think. Curiosity is how I learn."
 
-Welcome to my little corner of the internet — a space where logic meets creativity.  
-I'm a **Computer Science and Engineering** student at **Shahjalal University of Science and Technology (SUST)**, building things that make technology feel a bit more human.
+Welcome to my corner of the internet — where logic meets creativity.  
+I'm a **Computer Science and Engineering** student at **Shahjalal University of Science and Technology (SUST)**, building technology that feels more human.
 
 ---
+
 ![Profile Views](https://komarev.com/ghpvc/?username=meheduz&label=Profile%20Views&color=blue&style=flat)
 
 ## About Me
-- **CSE @ SUST** — where algorithms meet caffeine.  
-- I'm drawn to the elegant chaos of **algorithms**, the art of **app development**, and the openness of **open source**.  
-- Currently exploring **Java** and **C++**, balancing syntax with imagination.  
+- **CSE @ SUST** — where algorithms meet caffeine
+- Passionate about **algorithms**, **app development**, and **open source**
+- Currently mastering **Java** and **C++**, balancing syntax with creativity
 
 ---
 
-## What I'm Up To
-- Strengthening my **problem-solving mindset** through programming.  
-- Crafting **clean, simple, and meaningful web experiences**.  
-- Exploring **open-source** communities — because knowledge grows when shared.  
+## What I'm Building
+- Sharpening my **problem-solving skills** through code
+- Creating **clean, meaningful web experiences**  
+- Contributing to **open-source** — because shared knowledge grows exponentially
 
 ---
 
-### "Keep building. Keep learning. Keep wondering."
----
-
-## Connect
-
+## Let's Connect
 - [LinkedIn](https://linkedin.com/in/meheduz)
 - [Twitter](https://twitter.com/mdmeheduz)
 - [Email](mailto:2023331064@student.sust.edu)
