@@ -12,7 +12,6 @@ I'm a **Computer Science and Engineering** student at **Shahjalal University of 
 
 ## 
 - [LinkedIn](https://linkedin.com/in/meheduz)
-- [Twitter](https://twitter.com/mdmeheduz)
 - [Email](mailto:2023331064@student.sust.edu)
 
 ---
